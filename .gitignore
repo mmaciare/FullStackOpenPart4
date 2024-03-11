@@ -134,3 +134,4 @@ dist
 backend/.eslintrc.js
 backend/.eslintignore
 .gitignore
+backend/launch.json
